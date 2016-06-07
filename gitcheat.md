@@ -1,3 +1,3 @@
 #Git Cheatsheet
-**Name:** Helen Koh
+**Name:** Helen Koh  
 **Date:** June 7, 20016
